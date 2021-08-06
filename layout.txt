@@ -1,0 +1,4 @@
+Hearder 
+Post Option
+Categories
+Footer
